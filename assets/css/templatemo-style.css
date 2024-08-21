@@ -569,6 +569,8 @@ figure.snip1321 h4 {
     margin-top: 15px;
   margin-bottom: 5px;
   color: #232323;
+  position: relative;
+  margin: auto;
 }
 figure.snip1321 span {
     font-size: 14px;
